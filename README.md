@@ -1,2 +1,1 @@
-# 2026-jun
-Calendar for June, 2026.
+# 2026-Jun Calendar
