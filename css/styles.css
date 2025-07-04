@@ -1,6 +1,4 @@
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~ css/styles.css of 2026-06-jun making 2026-jun.bauska.org ~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+/* css/styles.css of 2026-06-jun making 2026-jun.bauska.org */
 body {
   font-family:Helvetica;
 }
@@ -69,7 +67,6 @@ ul {
     padding:5px;
     margin:5px 0;
 }
-<!-- added 6-10-25 5:08pm -->
 .container {
   background-color: #ffffff;  /* white */
   border: 2px solid #dcdcdc;  /* very light gray */
@@ -106,7 +103,7 @@ a:hover::after {
   width: 85%;
 }
 
-<!-- World, National & International Days -->
+/* World, National & International Days */
 .worldMilk {
     background-color:#e1d2f5;  /* light grayish violet */
 }
